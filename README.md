@@ -1,10 +1,10 @@
 [![Profile](https://res.cloudinary.com/dygfr5kt4/image/upload/v1596168085/eatsleep_wfxvbo.png)](https://www.instagram.com/y_b_das/)
 - 🌱 I’m currently learning ...Flutter
 - 👯 I’m looking to collaborate on ...Flutter
-- 🔭 Areas of Interest ... Web-Development, Machine Learning
+- 🔭 Areas of Interest ... Web-Development, Android Development
 - 🤔 I’m looking for help with ...Anything new
 - 💬 Ask me about ...Anything You Like
-- 📫 How to reach me: ...[Follow me](https://www.instagram.com/y_b_das/)
+- 📫 How to reach me: ...[Follow me](https://www.instagram.com/navneet.__.gupta/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Still Thinking
 
@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif" width="400px" />
 <br>
 
-<h2> I'm Yash Bardhan Das</h2></div>
+<h2> I'm Navneet Gupta</h2></div>
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.cn/in/yash-das-784b3b1b4/)
