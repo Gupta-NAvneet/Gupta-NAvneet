@@ -15,7 +15,9 @@
   ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Language Used
 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=HTML width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=CSS width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;
+  
+  
 
 <div align="center">
 <img src="https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif" width="400px" />
