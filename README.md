@@ -10,7 +10,7 @@
 
 ## ![#00cc99](https://via.placeholder.com/15/00cc99/000000?text=+) Skills 
 <p align="left"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/c/c-plain.svg alt=C width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg alt=C++ width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;<img src=https://&ensp;&ensp<img src=https://cdn.worldvectorlogo.com/logos/java.svg width="100" height="100"/>&ensp;&ensp;&ensp;&ensp;</p>
 
 <div align="center">
 <img src="https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif" width="400px" />
